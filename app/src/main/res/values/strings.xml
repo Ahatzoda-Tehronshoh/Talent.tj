@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Talent.tj</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="spinnerCity">
+        <item>Душанбе</item>
+        <item>Худжанд</item>
+        <item>Кулоб</item>
+        <item>Хоруг</item>
+        <item>Истаравшан</item>
+    </string-array>
+
+    <string-array name="spinnerEducation">
+        <item>Обучение не завершено</item>
+        <item>Учащийся средней школы</item>
+        <item>Выпускник средней школы диплом или эквивалент</item>
+        <item>Прохожу обучение в университете</item>
+        <item>Степень бакалавра</item>
+        <item>Степень магистра</item>
+        <item>Докторская степень</item>
+    </string-array>
+
+    <string-array name="spinnerWorkingStatus">
+        <item>Ready to work</item>
+        <item>Can\'t work</item>
+    </string-array>
+</resources>
